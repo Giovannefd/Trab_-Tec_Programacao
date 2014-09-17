@@ -1,5 +1,15 @@
-#nav {
+#propagandas {
+	text-align: center;
+	border: none;
+}
+#menu_index {
+	background-color: #1E90FF;
+}
 
+#rodape_index{
+	background-color: #1E90FF;
+}
+#nav {
 	list-style-type: none;
 	float: left;
 }
@@ -12,6 +22,7 @@
 
 #imgColaboradores{
 	border: none;
+	background-color: #1E90FF;
 }
 
 #nomes {
