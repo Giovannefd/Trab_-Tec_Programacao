@@ -3,15 +3,29 @@
 	border: none;
 }
 #menu_index {
-	background-color: #1E90FF;
+	background-color: ;
+	border: none;
 }
 
-#rodape_index{
-	background-color: #1E90FF;
+a:hover {
+	background: #836FFF;
+	height: 
 }
+
+a:link {
+	text-decoration: none;
+	color: #000000;
+}
+
+a:visited {
+	color: #000000;
+}
+
 
 #logo{
-	float: left;
+	text-align: center;
+	float: top;
+
 }
 #nav {
 	list-style-type: none;
@@ -20,7 +34,7 @@
 
 #nav li {
 	margin: 0px;
-	padding: 0px 10px 0px 30px;
+	padding: 0px 50px 0px 50px;
 	float: left;
 }
 #propagandas {
@@ -30,7 +44,7 @@
 
 #imgColaboradores{
 	border: none;
-	background-color: #1E90FF;
+	background-color: #836FFF;
 }
 
 #nomes {
@@ -62,14 +76,12 @@
 }
 
 #rodape_index {
-	padding: 0px;
-	width: 100%;
-	position: absolute;
-	bottom: 0;
+	background: 	#836FFF;
+	border: 		none;
 }
 
 #filtro_total{
-	background-color: #1E90FF;
+	background-color: #836FFF;
 	text-align: right;
 }
 
@@ -92,11 +104,6 @@
 	float: right;
 }
 
-#maps {
-text-align: right; 
-float:left; 
-margin:0 20px 10px 0;
-}
 
 #text{
 	background-color: #000000;
@@ -116,6 +123,10 @@ margin:0 20px 10px 0;
 }
 
 .text_quemsomos {
-	background-color: #000000;
-	color: #FFFFFF;
+	background-color: #CDC9C9;
+}
+
+#maps{
+	float: bottom;
+	text-align: center;
 }
