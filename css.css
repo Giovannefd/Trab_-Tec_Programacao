@@ -9,6 +9,10 @@
 #rodape_index{
 	background-color: #1E90FF;
 }
+
+#logo{
+	float: left;
+}
 #nav {
 	list-style-type: none;
 	float: left;
@@ -16,8 +20,12 @@
 
 #nav li {
 	margin: 0px;
-	padding: 0px 30px 0px 80px;
+	padding: 0px 10px 0px 30px;
 	float: left;
+}
+#propagandas {
+	width: auto;
+	height: auto;
 }
 
 #imgColaboradores{
@@ -41,6 +49,45 @@
 }
 
 
+#sidebar {	
+  text-align: 		center;
+  font-size:        105%;
+  padding:          0px 50px 0px 20px;
+  margin:           0px 50px 0px 20px;
+  position:         inherit;
+  display: 			inline-block;
+  top:              128px;
+  right:            0px;
+  width:            280px;
+}
 
+#rodape_index {
+	padding: 0px;
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+}
 
+#filtro_total{
+	background-color: #1E90FF;
+}
+
+#filtro{
+	float: left;
+}
+
+#prop {
+	width: 300px;
+	padding-left: 200px;
+}
+
+#propagandas_curriculo {
+	padding-left: 50px
+}
+
+#titulo_curriculo {
+	font-family: "times new roman";
+	text-align: justify;
+	float: right;
+}
 
