@@ -70,6 +70,7 @@
 
 #filtro_total{
 	background-color: #1E90FF;
+	text-align: right;
 }
 
 #filtro{
@@ -91,9 +92,27 @@
 	float: right;
 }
 
+#maps {
+text-align: right; 
+float:left; 
+margin:0 20px 10px 0;
+}
+
+#text{
+	background-color: #000000;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+#endereco {
+	text-align: left;
+}
+
+
 .curriculos {
 	background-color: #000000;
 	color: #FFFFFF;
+	text-align: center;
 }
 
 .text_quemsomos {
